@@ -167,5 +167,6 @@ são adicionados à campanha existente; não é preciso começar de novo.
 ## Referência e identidade
 
 Inspirado na ideia de um idle de terminal do [Elden Grid, de localhost-ayu](https://github.com/localhost-ayu/elden-grid). HalfACiv foi implementado do zero: não incorpora código, artes ou interface daquele repositório. As cenas ASCII, a economia de sobrevivência e a progressão política foram criadas para este jogo. Três ideias de mecânica vieram do Elden Grid e foram reescritas para o tema medieval: crises que ficam ativas até o jogador agir (aqui, calamidades), conquistas com bônus permanente de produção (feitos) e o resumo do progresso offline (relatório do intendente).
-#   H a l f - A - C i v  
+#   H a l f - A - C i v 
+ 
  
