@@ -1,0 +1,9 @@
+{
+  "name": "halfaciv",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Da primeira fogueira a um reino: um idle medieval no terminal.",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node index.js", "test": "node --test", "simulate": "node scripts/simulate.js" }
+}
